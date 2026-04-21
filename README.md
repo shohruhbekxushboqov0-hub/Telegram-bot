@@ -1,11 +1,10 @@
 import requests
 import json
 
-# =====================================================
-# SHU YERNI TO'LDIRING
+# 
 TELEGRAM_TOKEN = "8742392856:AAF06n5MsCdOdHFiJQv3CJW9QRwksm-_fFQ"
 ANTHROPIC_KEY  = "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"  
-# =====================================================
+# 
 
 SYSTEM = "Sen Shohruh nomidan javob beruvchi yordamchisan. O'zbek tilida qisqa va samimiy javob ber."
 
